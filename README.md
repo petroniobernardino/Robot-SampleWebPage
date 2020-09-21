@@ -1,4 +1,5 @@
-<p align="center"><img src="Robot + Selenium.png" width="350"></p>
+<p align="left"><img src="Robot + Selenium.png" width="350"></p>
+
 # Preparando Ambiente para utilização do Robot-Framework
 
 Passao a passo para a preparação do ambiente para criar automatização com Robot-Framework
