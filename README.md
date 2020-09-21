@@ -3,10 +3,12 @@
 Passao a passo para a preparação do ambiente para criar automazição com Robot-Framework
 
 # Instalação do Phyton
+```sh
 [Download do Phyton](https://www.python.org/downloads/)
-
+```
+```sh
 [Passo a Passo => 1) Instale o Python 3 ](http://cursos.qaninja.io/roboweek-gratuito-1a-edicao/)
-
+```
 # Instalação do ChromeDriver
 [Download do ChromeDriver](https://chromedriver.storage.googleapis.com/86.0.4240.22/chromedriver_win32.zip)
 ```sh
