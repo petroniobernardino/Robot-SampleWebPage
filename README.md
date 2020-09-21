@@ -1,4 +1,4 @@
-# Preparando Ambiente para utilização do Robot-Framework
+# Preparando ambiente para utilização do Robot-Framework
 
 Passao a passo para a preparação do ambiente para criar automatização com Robot-Framework
 <p align="left"><img src="Robot + Selenium.png" width="450"></p>
