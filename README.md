@@ -3,10 +3,9 @@
 Passao a passo para a preparação do ambiente para criar automazição com Robot-Framework
 
 # Instalação do Phyton
-```sh
 [Download do Phyton] (https://www.python.org/downloads/)
 [Passo a Passo - Passo 1] (http://cursos.qaninja.io/roboweek-gratuito-1a-edicao/)
-```
+
 
 
 
