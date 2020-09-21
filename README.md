@@ -4,6 +4,7 @@ Passao a passo para a preparação do ambiente para criar automazição com Robo
 
 # Instalação do Phyton
 [Download do Phyton](https://www.python.org/downloads/)
+
 [Passo a Passo - Passo 1](http://cursos.qaninja.io/roboweek-gratuito-1a-edicao/)
 
 
