@@ -1,18 +1,18 @@
 # Preparando Ambiente para utilização do Robot-Framework
 
 Passao a passo para a preparação do ambiente para criar automatização com Robot-Framework
-<p align="left"><img src="Robot + Selenium.png" width="350"></p>
+<p align="left"><img src="Robot + Selenium.png" width="450"></p>
 
 
 ## Instalação do Phyton
 
 [Download do Python](https://www.python.org/downloads/)
 
-<p align="left"><img src="Site Python.png" width="350"></p>
+<p align="left"><img src="Site Python.png" width="450"></p>
 
 [Passo a Passo => 1) Instale o Python 3 ](http://cursos.qaninja.io/roboweek-gratuito-1a-edicao/)
 
-<p align="left"><img src="Passo a passo - Instalação Python.png" width="350"></p>
+<p align="left"><img src="Passo a passo - Instalação Python.png" width="450"></p>
 
 ## Instalação do ChromeDriver
 [Download do ChromeDriver](https://chromedriver.storage.googleapis.com/86.0.4240.22/chromedriver_win32.zip)
