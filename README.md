@@ -2,6 +2,7 @@
 
 Passao a passo para a preparação do ambiente para criar automazição com Robot-Framework
 
+
 # Instalação do Phyton
 ```sh
 [Download do Phyton](https://www.python.org/downloads/)
