@@ -33,3 +33,16 @@ Salvar o arquivo [chromedriver.exe] no caminho C:\Python38\Scripts
 
 <p align="left"><img src="Passo a passo - Instalação VS Code.png" width="450"></p>
 
+
+## Iniciando o Projeto
+```sh
+- Crie uma pasta aonde irá alocar o seu projeto.
+```
+```sh
+- Execute o VS code e abra a pasta que foi criada.
+```
+```sh
+- Lembrando que todos os arquivos criados do projeto, tem que terminar com ".robot"
+```
+
+<p align="left"><img src="Iniciando o VS code.png" width="450"></p>
