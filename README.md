@@ -1,4 +1,4 @@
-# Preparando Ambiente para utilização do Robot
+# Preparando Ambiente para utilização do Robot-Framework
 
 Passao a passo para a preparação do ambiente para criar automazição com Robot-Framework
 
