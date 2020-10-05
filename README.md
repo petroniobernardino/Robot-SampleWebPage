@@ -24,6 +24,17 @@ Salvar o arquivo [chromedriver.exe] no caminho C:\Python38\Scripts
 <p align="left"><img src="Pasta Chromedriver.png" width="450"></p>
 
 
+## Instalação do RobotFramework e  
+```sh
+Vá no Prompt de comando do windons (cmd) e digite os comandos abaixo:
+```
+```sh
+pip install robotframework
+```
+```sh
+pip install robotframework-selenium2library
+```
+
 ## Instalação do editor VS Code
 [Download do VS Code](https://code.visualstudio.com/)
 
