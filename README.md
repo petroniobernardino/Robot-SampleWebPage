@@ -16,7 +16,11 @@ Passao a passo para a preparação do ambiente para criar automatização com Ro
 
 
 ## Instalação do ChromeDriver
-[Download do ChromeDriver](https://chromedriver.storage.googleapis.com/index.html?path=85.0.4183.87/)
+[Download do ChromeDriver](https://chromedriver.chromium.org/downloads)
+
+<p align="left"><img src="Sobre google.png" width="450"></p>
+<p align="left"><img src="versao chromer.png" width="450"></p>
+<p align="left"><img src="download driver.png" width="450"></p>
 
 ```sh
 Clicar no link:chromedriver_win32.zip, descompactar e salvar o arquivo [chromedriver.exe] no caminho C:\Python38\Scripts
