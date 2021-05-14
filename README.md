@@ -36,7 +36,7 @@ Vá no Prompt de comando do windons (cmd) e digite e execute os comandos abaixo:
 pip install robotframework [ENTER]
 ```
 ```sh
-pip install robotframework-selenium2library [ENTER]
+pip install robotframework-seleniumlibrary [ENTER]
 ```
 
 ## Instalação do editor VS Code
